@@ -15,11 +15,11 @@ export default function Page() {
           <p
             className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
-            <strong>Welcome to FinSightful.</strong> This is the example for the{' '}
+            <strong>Welcome to FinSightful.</strong> Streamline your finances{' '}
             <a href="https://nextjs.org/learn/" className="text-blue-500">
-              Next.js Learn Course
+              with one-click access to
             </a>
-            , brought to you by Vercel.
+            invoices and customers.
           </p>
           <Link
             href="/login"
